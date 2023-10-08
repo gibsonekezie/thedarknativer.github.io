@@ -3,7 +3,7 @@
 
 
 #### Now
-- Interested in DevOps, Cloud engineering and Cyber Security;
+- Interested in DevOps, Cloud engineering and Cyber Security
 - Looking for contributing to golang based and cloud native open source projects 
 
 #### Bio
