@@ -1,5 +1,5 @@
 ## Hi 👋, I'm a Devops engineer 
-[![Profile badge](https://www.codewars.com/users/thedarknative/badges/large)](https://www.codewars.com/users/thedarknative)(https://tryhackme.com/badge/858593)
+[![Profile badge](https://www.codewars.com/users/thedarknative/badges/large)](https://www.codewars.com/users/thedarknative)
 
 
 #### Now
