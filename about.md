@@ -8,7 +8,6 @@ _yay_
 
 [back](./)
 
-  ![Photo](/img/me.jpeg)
 ## Hi 👋, I'm a Devops engineer 
 [![Profile badge](https://www.codewars.com/users/thedarknative/badges/large)](https://www.codewars.com/users/thedarknative)
 
