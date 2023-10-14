@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
+###
+
 
 ## Even if you are not ready for the day.., it cannot always be night.
 
-[Link to my library page](./about.html).
+[Link to my virtual library](./lib.html).
 
-## Heyyy 👋, I'm Gibson  
+## Heyyy 👋, I'm Gibson
+I'm a Cloud Engineer currently based in Abuja, Nigeria. I enjoy building scalable applications, automating and scripting tasks.  
 
 #### Now
 - Interested in DevOps, Cloud engineering, Network Automation and a little Cyber Security
@@ -29,10 +32,8 @@ layout: default
 
 [![Profile badge](https://www.codewars.com/users/thedarknative/badges/large)](https://www.codewars.com/users/thedarknative)
 
-#### Certificatons
-_coming soon..._
-
 #### Notes and Project
+
 _coming soon..._
 
 #### Connect With Me

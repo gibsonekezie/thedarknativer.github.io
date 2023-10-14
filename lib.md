@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome.. to a branch of the multiverse
+## Welcome.. to mergeable branch of knowledge
 
 _this is some way.._
 _still under construction.._
