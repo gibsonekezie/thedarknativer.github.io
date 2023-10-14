@@ -4,8 +4,6 @@ layout: default
 
 ## Even if you are not ready for the day.., it cannot always be night.
 
-_this is some way_
-
 [Link to my library page](./about.html).
 
 ## Heyyy 👋, I'm Gibson  
@@ -32,7 +30,11 @@ _this is some way_
 [![Profile badge](https://www.codewars.com/users/thedarknative/badges/large)](https://www.codewars.com/users/thedarknative)
 
 #### Certificatons
+_coming soon..._
+
 #### Notes and Project
+_coming soon..._
+
 #### Connect With Me
 
 <p left="center">
