@@ -2,122 +2,47 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## Even if you are not ready for the day.., it cannot always be night.
 
-[Link to About page](./about.html).
+_this is some way_
 
-There should be whitespace between paragraphs.
+[Link to my library page](./about.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Heyyy 👋, I'm Gibson  
 
-# Header 1
+#### Now
+- Interested in DevOps, Cloud engineering, Network Automation and a little Cyber Security
+- Looking to contributing on a golang based and cloud native open source projects 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+#### Bio
 
-## Header 2
+- 🏢 I'm currently open to new opportunities
+- ⚙️ I use daily: `.py`, `.ps1`, `.yml`, `.sh`,  `.tf`
+- 🌱 Learning all about **DevOps**
+- 💬 Ping me about **Powershell**, **Terraform**, **Ansible**, **Cloudformation**, **Linux**, **Django**, **Python**, **Golang**, **Aws**, **Azure** & **k8s**
+- 📫 Reach me: [twitter.com/thedarknative](https://twitter.com/thedarknative)
+- 📝 Checkout my [Resume](files/resume.pdf).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### My Stack
 
-### Header 3
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/golang-gopher.svg" alt="golang"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/git-original.svg" alt="Git"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/jenkins.svg" alt="jenkins"> <img height="48" src="img/kubernets.svg" alt="k8s"> <img height="48" src="img/azure.svg" alt="Azure"> <img height="48" src="img/aws.svg" alt="AWS"> <img height="48" src="img/terraform.svg" alt="Terraform"> <img height="48" src="img/cloudformation.svg" alt="Cloudformation"> <img height="48" src="img/azure-pipelines.svg" alt="Azure Pipeline"> <img height="48" src="img/aws-codepipeline.svg" alt="Codepipeline">
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### Stolen Badges
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[![Profile badge](https://www.codewars.com/users/thedarknative/badges/large)](https://www.codewars.com/users/thedarknative)
 
-#### Header 4
+#### Certificatons
+#### Notes and Project
+#### Connect With Me
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<p left="center">
+<a href="https://twitter.com/thedarknative">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/thedarknative/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="mailto:ekeziegibson@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
