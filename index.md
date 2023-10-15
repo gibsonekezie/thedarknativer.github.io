@@ -4,10 +4,6 @@ layout: default
 
 
 
-## Even if you are not ready for the day.., it cannot always be night.
-
-[Link to my virtual library](./lib.html).
-
 ## Heyyy 👋, I'm Gibson
 I'm a Cloud Engineer currently based in Abuja, Nigeria. I enjoy building scalable applications, automating and scripting tasks.  
 
@@ -23,6 +19,7 @@ I'm a Cloud Engineer currently based in Abuja, Nigeria. I enjoy building scalabl
 - 💬 Ping me about **Powershell**, **Terraform**, **Ansible**, **Cloudformation**, **Linux**, **Django**, **Python**, **Golang**, **Aws**, **Azure** & **k8s**
 - 📫 Reach me: [twitter.com/thedarknative](https://twitter.com/thedarknative)
 - 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [virtual library](./lib.html).
 
 #### My Stack
 
