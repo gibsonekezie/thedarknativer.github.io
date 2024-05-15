@@ -8,8 +8,7 @@ package main
 import "fmt"
 
 func main () {
-  p := "not ready"
-  if p=="not ready"{
+  if p := "not ready"; p=="not ready"{
     fmt.Println("Morning !!")
   }
 }
