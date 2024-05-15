@@ -19,7 +19,7 @@ func main () {
 - ⚙️ I use daily: `.py`, `.ps1`, `.yml`, `.sh`,  `.tf`
 - 💬 Ping me about **Powershell**, **Terraform**, **Ansible**, **Cloudformation**, **Linux**, **Django**, **Python**, **Golang**, **Aws**, **Azure** **GCP** & **k8s**
 - 📫 Reach me: [Twitter](https://twitter.com/thedarknative) | [LinkedIn](https://www.linkedin.com/in/thedarknative/)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](files/GibsonResume.pdf).
 - 🌱 Reading more books about **anything**
 - 📝 Checkout my [virtual library](./lib.html).
 
