@@ -13,18 +13,18 @@ func main () {
   }
 }
 ```
-#### Bio.. {still figuring out the rest}
+### Bio.. {still figuring out the rest}
 - 🌱 Interested in Linux, DevOps, Platform Engineering, System Design, SRE, Network Automation and Cloud Security.
 - 🏢 New to contributing to open source projects.
 - ⚙️ I use daily: `.py`, `.ps1`, `.yml`, `.sh`,  `.tf`
 - 💬 Ping me about **Powershell**, **Terraform**, **Ansible**, **Cloudformation**, **Linux**, **Django**, **Python**, **Golang**, **Aws**, **Azure** **GCP** & **k8s**
-- 📫 Reach me: [Twitter](https://twitter.com/thedarknative) | [LinkedIn](https://www.linkedin.com/in/thedarknative/)
+- 📫 Reach me: [Twitter](https://twitter.com/thedarknative) & [LinkedIn](https://www.linkedin.com/in/thedarknative/)
 - 📝 Checkout my [Resume](files/GibsonResume.pdf).
 - 🌱 Reading more books about **anything**
 - 📝 Checkout my [virtual library](./lib.html).
 
 
-#### Notes and Project
+### Notes and Project
 
 _coming soon..._
 
