@@ -8,7 +8,7 @@ layout: default
 I'm a Cloud Engineer currently based in Abuja, Nigeria. I enjoy building scalable applications, automating and scripting tasks.  
 
 #### Now
-- Interested in Linux, DevOps, SRE, Network Automation and a little Cyber Security.
+- Interested in Linux, DevOps, SRE, Network Automation and Cloud Security.
 - Looking to contributing on a golang based and cloud native open source projects. 
 
 #### Bio
