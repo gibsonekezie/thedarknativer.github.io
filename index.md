@@ -9,7 +9,7 @@ import "fmt"
 
 func main () {
   if p := "not ready"; p=="not ready"{
-    fmt.Println("Morning !!")
+    fmt.Println("Morning 🌞")
   }
 }
 ```
