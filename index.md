@@ -24,7 +24,7 @@ func main () {
 - 📝 Checkout my [virtual library](./lib.html).
 
 
-### Notes and Project
+### Notes and Projects
 
 _coming soon..._
 
